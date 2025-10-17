@@ -1,16 +1,19 @@
-## Hi there 👋
+### 💻 QA Testeur Automatisation | Java • Selenium • Postman • Cucumber  
 
-<!--
-**Pinar13yuzer/Pinar13yuzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bonjour, je suis **Pınar Yüzer**, passionnée par l’automatisation de tests et l’assurance qualité logicielle.  
+Je conçois, exécute et automatise des tests fonctionnels et API dans des environnements **Agile/Scrum**.  
 
-Here are some ideas to get you started:
+#### 🧰 Stack technique  
+- **Langages & Frameworks :** Java, TestNG, JUnit, Cucumber, Gherkin  
+- **Outils :** Selenium WebDriver, Postman, REST Assured, Jira, Git/GitHub  
+- **Méthodologies :** Agile, Test Planification, Bug Reporting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Projets récents  
+- 🏠 **[GetLandEstate](https://github.com/Pinar13yuzer/GetLandEstate)** — Automatisation des tests UI (Web) avec Selenium + Cucumber  
+- 🛒 **[AlloverCommerce](https://github.com/Pinar13yuzer/AlloverCommerce)** — Tests API et E2E avec Postman + REST Assured  
+
+#### 📫 Contact  
+📍 Île-de-France, France  
+📧 pyuzer4@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pinaryuzer)
+
